@@ -1,4 +1,4 @@
-# Alcohol-and-Hard-Drug-Interaction-Replication-Study
+# Alcohol and Hard Drug Interaction Replication Study
 
 ![Company Logo](https://github.com/BreeMad/Alcohol-and-Hard-Drug-Interaction-Replication-Study/blob/main/alcohol.jpg)
 
