@@ -15,12 +15,12 @@ Alcohol is popular among young people so its important for policymakers to under
 
 ## Conclusion
 + Number of people who use hard drugs decreased discontinuously at age 21 by approx. 2 percentage points.
-  + Robust across different specifications
+  + Robust across different specifications.
   
-+ Drastic increase in alcohol consumption at age 21
++ Drastic increase in alcohol consumption at age 21.
 
-+ Alcohol consumption isn’t a gateway to hard drug use
-  + Alcohol and hard drugs are substitutes NOT complements
++ Alcohol consumption isn’t a gateway to hard drug use.
+  + Alcohol and hard drugs are substitutes NOT complements.
 
 + Robust to inclusion of covariates, birthday effects, & different specifications and polynomial degrees.
 
