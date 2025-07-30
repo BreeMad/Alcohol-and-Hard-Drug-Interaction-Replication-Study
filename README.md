@@ -1,6 +1,6 @@
 # Alcohol-and-Hard-Drug-Interaction-Replication-Study
 
-![Company Logo](https://github.com/BreeMad/Customer-Sales-and-Profitability-Analysis/blob/main/buildings.jpg)
+![Company Logo](https://github.com/BreeMad/Alcohol-and-Hard-Drug-Interaction-Replication-Study/blob/main/alcohol.jpg)
 
 Photo by <a href="https://unsplash.com/@dannylines?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Danny Lines</a> on <a href="https://unsplash.com/photos/man-drinking-beer-from-can-EXSL4e9aAgI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
